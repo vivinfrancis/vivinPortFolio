@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vivinPortFolio/static/css/main.77a765a9.css",
+    "main.js": "/vivinPortFolio/static/js/main.cd48392b.js",
+    "static/js/787.c406cc57.chunk.js": "/vivinPortFolio/static/js/787.c406cc57.chunk.js",
+    "index.html": "/vivinPortFolio/index.html",
+    "main.77a765a9.css.map": "/vivinPortFolio/static/css/main.77a765a9.css.map",
+    "main.cd48392b.js.map": "/vivinPortFolio/static/js/main.cd48392b.js.map",
+    "787.c406cc57.chunk.js.map": "/vivinPortFolio/static/js/787.c406cc57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77a765a9.css",
+    "static/js/main.cd48392b.js"
+  ]
+}
