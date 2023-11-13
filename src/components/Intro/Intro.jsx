@@ -5,12 +5,11 @@ import './Intro.scss'
 const Intro = () => {
     return (
         <div className="intro">
-            <img id="pfp" src="assets/pfp.jpg" alt="placeholder" />
+            <img style={{height:"100%", borderRadius:"20%"}} src="assets/vivin.jpg" alt="placeholder"/>
             <div className="intro__info">
-                <div className="name">Punarv Pawade</div> 
-                <div className="aka">aka</div>
-                <div className="nickname">Incinerator</div>
-                <div className="info">WIP // More to come // maibi??</div>
+                <div className="name">Alankara Vivin F</div> 
+                <div className="aka">Software Developer</div>
+                <div className="nickname">Kapiital Kapslock</div>
             </div>   
         </div>
     )
